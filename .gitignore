@@ -1,0 +1,14 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the credentials file
+credentials.py
+
+# Ignore the Flask development server log
+flask.log
+
+# Ignore the database file
+db.sqlite3
