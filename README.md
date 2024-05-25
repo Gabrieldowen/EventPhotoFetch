@@ -1,0 +1,5 @@
+- Event Photo finder
+    - Enter a photo of yourself and a hashtag or the name of event
+    - Then engine searches using social media apis with those tags
+    - Use a facial recognition api to find photos you are in at that event
+    - Return the photos either downloaded or a link to where they were found
